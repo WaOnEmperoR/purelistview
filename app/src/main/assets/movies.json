@@ -1,0 +1,82 @@
+[
+  {
+    "name" : "Avengers: Infinity War",
+    "production_house" : "Walt Disney Pictures",
+    "director" : "Anthony Russo, Joe Russo",
+    "synopsis" : "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "year" : "2018",
+    "poster" : "avengers_infinity_war_poster"
+  },
+  {
+    "name" : "Black Panther",
+    "production_house" : "Marvel Studios",
+    "director" : "Ryan Coogler",
+    "synopsis" : "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+    "year" : "2018",
+    "poster" : "black_panther_film_poster"
+  },
+  {
+    "name" : "Deadpool",
+    "production_house" : "20th Century Fox",
+    "director" : "Tim Miller",
+    "synopsis" : "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+    "year" : "2016",
+    "poster" : "deadpool_2_poster"
+  },
+  {
+    "name" : "Skyfest 2015: Batman vs Superman",
+    "production_house" : "N/A",
+    "director" : "Jon Eddy",
+    "synopsis" : "A brand new Batman/Superman adventure first told live in front of 7,600 people at a minor league baseball game.",
+    "year" : "2016",
+    "poster" : "batman_v_superman_poster"
+  },
+  {
+    "name" : "Star Wars: The Last Jedi",
+    "production_house" : "Walt Disney Pictures",
+    "director" : "Rian Johnson",
+    "synopsis" : "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",    "year" : "2017",
+    "year" : "2017",
+    "poster" : "star_wars_the_last_jedi"
+  },
+  {
+    "name" : "Bohemian Rhapsody",
+    "production_house" : "20th Century Fox",
+    "director" : "Bryan Singer",
+    "synopsis" : "The story of the legendary rock band Queen and lead singer Freddie Mercury, leading up to their famous performance at Live Aid (1985).",
+    "year" : "2018",
+    "poster" : "bohemian_rhapsody_poster"
+  },
+  {
+    "name" : "Captain America: Civil War",
+    "production_house" : "Walt Disney Pictures",
+    "director" : "Anthony Russo, Joe Russo",
+    "synopsis" : "With many people fearing the actions of super heroes, the government decides to push for the Hero Registration Act, a law that limits a hero's actions. This results in a division in The Avengers. Iron Man stands with this Act, claiming that their actions must be kept in check otherwise cities will continue to be destroyed, but Captain America feels that saving the world is daring enough and that they cannot rely on the government to protect the world. This escalates into an all-out war between Team Iron Man (Iron Man, Black Panther, Vision, Black Widow, War Machine, and Spider-Man) and Team Captain America (Captain America, Bucky Barnes, Falcon, Scarlet Witch, Hawkeye, and Ant Man) while a new villain emerges",
+    "year" : "2016",
+    "poster" : "captain_america_civil_war_poster"
+  },
+  {
+    "name" : "Despicable Me 3",
+    "production_house" : "Universal Pictures",
+    "director" : "Cinco Paul, Ken Daurio",
+    "synopsis" : "Gru teams up with his long-lost twin brother Dru in order to defeat a new enemy named Balthazar Bratt, a former child actor, obsessed with the 1980s, who grows up to become a villain after having his show cancelled following adolesence.",
+    "year" : "2017",
+    "poster" : "despicable_me_3_teaser_poster"
+  },
+  {
+    "name" : "Spider-Man: Homecoming",
+    "production_house" : "Universal Pictures",
+    "director" : "Kevin Feige, Amy Pascal",
+    "synopsis" : "Following the Battle of New York,[N 1] Adrian Toomes and his salvage company are contracted to clean up the city, but their operation is taken over by the Department of Damage Control (D.O.D.C.), a partnership between Tony Stark and the U.S. government. Enraged at being driven out of business, Toomes persuades his employees to keep the Chitauri technology they have already scavenged and use it to create and sell advanced weapons. Eight years later, Peter Parker is drafted into the Avengers by Stark to help with an internal dispute in Berlin,[N 2] but resumes his studies at the Midtown School of Science and Technology when Stark tells him he is not yet ready to become a full Avenger.",
+    "year" : "2017",
+    "poster" : "spider_man_homecoming_poster"
+  },
+  {
+    "name" : "Aquaman",
+    "production_house" : "Warner Bros Pictures",
+    "director" : "Peter Safran, Rob Cowan",
+    "synopsis" : "In 1985, Maine lighthouse keeper Thomas Curry rescues Atlanna, the queen of the underwater nation of Atlantis, during a storm. They eventually fall in love and have a son named Arthur, who is born with the power to communicate with marine lifeforms. Atlanna abandons her family and returns to Atlantis, entrusting her advisor, Nuidis Vulko, with the mission of training Arthur. Under Vulko's guidance, Arthur becomes a skilled warrior, but rejects Atlantis upon learning that Atlanna was executed for having a half-breed son.",
+    "year" : "2018",
+    "poster" : "aquaman_poster"
+  }
+]

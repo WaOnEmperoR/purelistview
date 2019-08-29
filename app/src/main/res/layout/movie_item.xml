@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginEnd="@dimen/activity_horizontal_margin"
+    android:layout_marginRight="@dimen/activity_horizontal_margin">
+
+    <ImageView
+        android:id="@+id/img_movie_poster"
+        android:layout_width="55dp"
+        android:layout_height="55dp"
+        android:layout_marginEnd="3dp"
+        android:layout_marginRight="3dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@id/img_movie_poster"
+        android:layout_toRightOf="@id/img_movie_poster"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tv_movie_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            tools:text="@string/movie_name"/>
+        <TextView
+            android:id="@+id/tv_prod_house_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            tools:text="@string/movie_prod_house"
+            android:maxLines="1" />
+        <TextView
+            android:id="@+id/tv_director_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="@string/movie_director"
+            android:ellipsize="end"
+            android:maxLines="1" />
+        <TextView
+            android:id="@+id/tv_year"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="@string/movie_year"
+            android:ellipsize="end"
+            android:maxLines="1" />
+    </LinearLayout>
+
+</RelativeLayout>

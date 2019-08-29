@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PureListView</string>
+    <string name="movie_name">Name</string>
+    <string name="movie_director">Director</string>
+    <string name="movie_prod_house">Production House</string>
+    <string name="movie_year">Year</string>
+    <string name="movie_synopsis">Synopsis</string>
+    <string name="movie_poster">Poster</string>
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+</resources>
